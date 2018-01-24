@@ -16,7 +16,7 @@
 title: Khalindr's home on GitHub
 email: elise.fety@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ceci est un site réalisé dans le cadre du séminaire sur les outils de gestion de projet avec Maxime Veber, en licence MIM.
+  Ceci est un site réalisé dans le cadre du séminaire sur les outils de gestion de projet avec Maxime Veber, en licence MIM. J'en ai profité pour essayer Jekyll, comme vous pouvez le voir.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
@@ -27,8 +27,8 @@ about: about
 contact: contact
 privacy-policy: privacy-policy
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://khalindr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  Khalindr
 
